@@ -1,5 +1,9 @@
 # Submitting Unit 3 Assessment
 
+### ✋ Reminder
+
+Do NOT merge your assessment!
+
 ### ✅ Completed Files
 
 Select the following as confirmation that the files in this repository are complete.
@@ -7,10 +11,6 @@ Select the following as confirmation that the files in this repository are compl
 - [ ] React Challenge
 - [ ] Interview Practice Questions
 - [ ] Looking Ahead Questions
-
-### ✋ Reminder
-
-Do NOT merge your assessment!
 
 ### 📝 Feedback
 

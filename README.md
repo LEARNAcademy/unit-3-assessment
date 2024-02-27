@@ -8,7 +8,7 @@ The step-by-step instructions [here](https://github.com/LEARNAcademy/Syllabus/bl
 
 Assessment should be accessed through the GitHub Classroom link provided to you in Slack.
 
-PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
+PRs should be posted _before_ class begins on Monday, March 4, 2024.
 
 #### Process
 
@@ -16,7 +16,7 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 - `cd` into an appropriate location on your local, we recommend the Desktop
 - Clone the assessment repository
 - `cd` into the assessment
-- Create a branch with the unit and your name, e.g `unit-1-sarah-proctor`
+- Create a branch with the unit and your name, e.g `unit-3-sarah-proctor`
 - Run $ `yarn` to install the React dependencies
 - Run $ `yarn start` to start the server
 - Complete all assessment tasks
@@ -31,13 +31,17 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 
 2. React Feature: Add functionality to the `Return Cards and Shuffle Deck` button using the `shuffle` function to reset the Card Draw application to its original state.
 
-3. React Concepts: Add comments to the sever (7) notations in the `drawCard` function describing in detail the functionality of the following line of code.
+3. React Concepts: Add comments to the seven (7) notations in the `drawCard` function describing in detail the functionality line of code BELOW the comment.
 
 4. STRETCH (optional): Add stylings of your choice to the application. Ensure the styling does not interfere with the card draw functionality.
 
 ### Interview Practice Questions
 
-1. What are two (3) syntax difference between HTML and JSX?
+1. What are three (3) syntax difference between HTML and JSX?
+
+-
+-
+-
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
